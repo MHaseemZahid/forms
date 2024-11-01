@@ -1,0 +1,27 @@
+:root{
+    --background-color: rgb(78, 170, 223);
+    --color:white;
+    
+    }
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box
+}
+
+.h1{ 
+    text-align: center;
+    align-items: center;
+  
+
+}
+.d1{
+    background-color:var(--background-color) ;
+    color: var(--color);
+    border: 1px solid white ;
+    /* display: flex; */
+    height: 100vh;
+       }
+.f1{
+
+       }
